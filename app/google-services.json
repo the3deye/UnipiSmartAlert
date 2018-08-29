@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "59914836236",
+    "firebase_url": "https://unipismartalert-16a00.firebaseio.com",
+    "project_id": "unipismartalert-16a00",
+    "storage_bucket": "unipismartalert-16a00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59914836236:android:3db2e4c6cb7ef8ac",
+        "android_client_info": {
+          "package_name": "com.mppl16032.georgepyliaros.unipismartalert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59914836236-l45gfokkrl79ln2ig9i6tfcvvfq0pauk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mppl16032.georgepyliaros.unipismartalert",
+            "certificate_hash": "a98f9b10bb273b0ffabfb4569dc5dacec1f99b8f"
+          }
+        },
+        {
+          "client_id": "59914836236-508bpmojd0kibj6e5bbpokvf8528p8m3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFtyEn_oo-WjBvTftLCSKnEenY4zFtaak"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59914836236-508bpmojd0kibj6e5bbpokvf8528p8m3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
