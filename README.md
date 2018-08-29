@@ -6,4 +6,5 @@ Some examples: custom lists - adapters,
                Voice recognition, 
                Activity lifecycles, 
                using sensors, timers, 
-               Various methods of user authentication.
+               Various methods of user authentication 
+               and getting used to firebase platform in general
